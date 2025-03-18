@@ -21,8 +21,9 @@ Key Insights:
 
 Note: The amounts in this analysis are in Ghana Cedis (GHS) but were omitted from the visuals to maintain a clean and readable dashboard.
 
-"C:\Users\nanak\Pictures\Screenshots\Screenshot 2025-03-09 224854.png"
+![Screenshot 2025-03-09 224854](https://github.com/user-attachments/assets/202d490c-2103-468e-9b04-fe69b374ce54)
 
-"C:\Users\nanak\Pictures\Screenshots\Screenshot 2025-03-10 215207.png"
+![Screenshot 2025-03-10 215207](https://github.com/user-attachments/assets/90f1bce3-a035-4af5-afa1-8162e55ca1e2)
 
-"C:\Users\nanak\Pictures\Screenshots\Screenshot 2025-03-10 215432.png"
+![Screenshot 2025-03-10 215432](https://github.com/user-attachments/assets/643e7790-e215-403e-af78-9d0cf08e39ca)
+
