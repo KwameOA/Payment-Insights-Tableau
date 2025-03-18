@@ -20,3 +20,9 @@ Key Insights:
 - Clean, well-structured payment data leads to better financial decisions and improved customer insights.
 
 Note: The amounts in this analysis are in Ghana Cedis (GHS) but were omitted from the visuals to maintain a clean and readable dashboard.
+
+"C:\Users\nanak\Pictures\Screenshots\Screenshot 2025-03-09 224854.png"
+
+"C:\Users\nanak\Pictures\Screenshots\Screenshot 2025-03-10 215207.png"
+
+"C:\Users\nanak\Pictures\Screenshots\Screenshot 2025-03-10 215432.png"
